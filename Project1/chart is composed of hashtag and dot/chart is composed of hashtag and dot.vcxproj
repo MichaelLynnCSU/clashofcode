@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{2FB35875-11B2-430B-B33D-75F830DDFFA1}</ProjectGuid>
-    <RootNamespace>alltheoddnumbers</RootNamespace>
+    <ProjectGuid>{6B81D7BF-88EC-4CBE-8C27-292E2B618A2A}</ProjectGuid>
+    <RootNamespace>chartiscomposedofhashtaganddot</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

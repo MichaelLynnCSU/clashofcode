@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{2FB35875-11B2-430B-B33D-75F830DDFFA1}</ProjectGuid>
-    <RootNamespace>alltheoddnumbers</RootNamespace>
+    <ProjectGuid>{01F9C9EA-C386-406A-ADAA-0AB5F22C5CC0}</ProjectGuid>
+    <RootNamespace>Sumofeachxpowersofn</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
